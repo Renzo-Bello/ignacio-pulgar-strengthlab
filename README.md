@@ -8,4 +8,14 @@ Los registros se guardan solo en el navegador del usuario. No se envían a GitHu
 
 GitHub Pages publica desde main, carpeta raíz. No requiere instalación ni compilación. El index usa rutas relativas para funcionar bajo la URL del repositorio.
 
-Diseño adaptado del proyecto de Lukas Gaete. Fotografías: free-exercise-db; ver IMAGES.md e IMAGE-LICENSE.md. Los archivos vendor incluyen sus avisos de licencia.
+Diseño adaptado del proyecto de Lukas Gaete. Imágenes nuevas: generadas con IA; ver IMAGES.md. Los archivos fotográficos anteriores mantienen su atribución en IMAGE-LICENSE.md. Los archivos vendor incluyen sus avisos de licencia.
+
+## RIR pautado y RIR real
+
+«Editar pauta» permite definir un RIR objetivo para cada serie y un video referencial por ejercicio. No hay objetivos inventados: todos comienzan sin pautar. Valores disponibles: 5+, 5, 4, 3, 2, 1, 0 y F. F representa fallo; 0, ninguna repetición en reserva sin intentar otra.
+
+«Guardar pauta» guarda los ajustes en ese navegador. «Crear enlace para Ignacio» incluye la pauta completa en el enlace; el destinatario debe abrirlo para recibirla. No hay sincronización automática entre dispositivos ni autenticación del editor. También se pueden descargar e importar pautas JSON. Las sesiones que ya tienen registros conservan el objetivo original, mientras las nuevas usan la pauta vigente.
+
+El atleta registra RIR real por serie. El PDF y ambos CSV incluyen RIR pautado y RIR real. Las copias de registros anteriores, que no tenían RIR, siguen siendo válidas y muestran los campos vacíos.
+
+Los videos aceptan enlaces HTTP/HTTPS y se abren en otra pestaña. Las nuevas imágenes de referencia se generan con IA y se identifican como tales en el detalle. No se incluyen datos de pruebas en el repositorio.

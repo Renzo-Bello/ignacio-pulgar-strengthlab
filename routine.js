@@ -20,7 +20,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/press-pecho.jpg"
+        "image": "assets/ai-press-pecho.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "peck",
@@ -34,7 +40,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/peck.jpg"
+        "image": "assets/ai-peck.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "fondos",
@@ -48,7 +60,13 @@ let ROUTINE = [
         ],
         "body": true,
         "note": "",
-        "image": "assets/fondos.jpg"
+        "image": "assets/ai-fondos.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "extension-triceps",
@@ -67,7 +85,14 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/extension-triceps.jpg"
+        "image": "assets/ai-extension-triceps.jpg",
+        "targetRir": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "laterales",
@@ -81,7 +106,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "Registra los kg por mancuerna.",
-        "image": "assets/laterales.jpg"
+        "image": "assets/ai-laterales.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       }
     ]
   },
@@ -101,7 +132,13 @@ let ROUTINE = [
         ],
         "body": true,
         "note": "Series convencionales de 6 repeticiones.",
-        "image": "assets/dominadas.jpg"
+        "image": "assets/ai-dominadas.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "jalon",
@@ -120,7 +157,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/jalon.jpg"
+        "image": "assets/ai-jalon.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "remo-unilateral",
@@ -134,7 +177,12 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "Por lado. Registra la carga usada en cada lado.",
-        "image": "assets/remo-unilateral.jpg"
+        "image": "assets/ai-remo-unilateral.jpg",
+        "targetRir": [
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "inclinado-curl",
@@ -148,7 +196,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "Por brazo. Registra los kg por mancuerna.",
-        "image": "assets/inclinado-curl.jpg"
+        "image": "assets/ai-inclinado-curl.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       }
     ]
   },
@@ -173,7 +227,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/hack.jpg"
+        "image": "assets/ai-hack.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "leg-extension",
@@ -187,7 +247,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/leg-extension.jpg"
+        "image": "assets/ai-leg-extension.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "leg-curl",
@@ -201,7 +267,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/leg-curl.jpg"
+        "image": "assets/ai-leg-curl.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "aductores",
@@ -215,7 +287,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/aductores.jpg"
+        "image": "assets/ai-aductores.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       }
     ]
   },
@@ -240,7 +318,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/militar.jpg"
+        "image": "assets/ai-militar.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "curl-pie",
@@ -259,7 +343,14 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "Registra los kg por mancuerna.",
-        "image": "assets/curl-pie.jpg"
+        "image": "assets/ai-curl-pie.jpg",
+        "targetRir": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "triceps-v",
@@ -278,7 +369,14 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/triceps-v.jpg"
+        "image": "assets/ai-triceps-v.jpg",
+        "targetRir": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "predicador",
@@ -292,7 +390,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/predicador.jpg"
+        "image": "assets/ai-predicador.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       },
       {
         "id": "fondos-maquina",
@@ -306,7 +410,13 @@ let ROUTINE = [
         ],
         "body": false,
         "note": "",
-        "image": "assets/fondos-maquina.jpg"
+        "image": "assets/ai-fondos-maquina.jpg",
+        "targetRir": [
+          "",
+          "",
+          ""
+        ],
+        "video": ""
       }
     ]
   }
